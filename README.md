@@ -10,3 +10,7 @@ I am not responsible for usage of the code or the project in another context tha
 2. Botipy is the "Client socket" program.
 3. Each clients are connecting to the CCipy program.
 4. CCipy program can dialog with Clients to execute commands.
+
+# Run
+In a shell, execute the command: `python3 CCipy.py`
+In other shells, execute the command: `python3 Botipy.py`
