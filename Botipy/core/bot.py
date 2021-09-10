@@ -67,7 +67,7 @@ class Bot(object):
                 except subprocess.TimeoutExpired:
                     process.kill()
                     output = 'kill process {cmd}:{pid}.'.format(cmd=raw_cmd.decode(),
-                                                                    pid=process.pid())
+                                                                    pid=str(process.pid()))
                     self.socket.send(output.encode())
             except socket.error:
                 self.running = False
