@@ -1,4 +1,4 @@
-# C&C
+# C-C
 Simple C&C wrote in python
 
 # Disclaimer
