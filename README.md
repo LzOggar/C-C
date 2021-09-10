@@ -14,3 +14,5 @@ I am not responsible for usage of the code or the project in another context tha
 # Run
 1. In a shell, execute the command: `python CCipy.py`
 2. In other shells, execute the command: `python Botipy.py`
+
+![image](https://user-images.githubusercontent.com/40043183/132901353-e67d8eb2-0b04-42db-aab8-0f1e2c1bd8d2.png)
