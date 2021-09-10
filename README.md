@@ -12,5 +12,5 @@ I am not responsible for usage of the code or the project in another context tha
 4. CCipy program can dialog with Clients to execute commands.
 
 # Run
-In a shell, execute the command: `python3 CCipy.py`
-In other shells, execute the command: `python3 Botipy.py`
+1. In a shell, execute the command: `python3 CCipy.py`
+2. In other shells, execute the command: `python3 Botipy.py`
